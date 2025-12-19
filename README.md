@@ -3,7 +3,7 @@
 I'm Elia <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 This is my github profile. \
-I'm a software developer, specialized on web development (Angular is my first love xd).
+I'm a software developer, web development specialized (Angular is my first love xd).
 
 ### Programming Languages
 * Experienced: Typescript
